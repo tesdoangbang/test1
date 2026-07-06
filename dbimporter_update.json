@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "title": "Tidak ada update",
-  "changelog": "",
-  "apkUrl": ""
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "title": "Update DB Importer 1.0.1",
+  "changelog": "Perubahan:\n- Tampilan baru modern minimalis\n- Loading screen saat masuk aplikasi\n- Loading saat import data\n- Pesan error import lebih jelas\n- Validasi barcode dobel\n- Validasi jenis kayu dari GitHub",
+  "apkUrl": "https://github.com/tesdoangbang/test1/raw/refs/heads/master/app-debug.apk"
 }
